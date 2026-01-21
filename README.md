@@ -43,6 +43,3 @@ The projects demonstrate data cleaning, analysis, visualization, and business in
 3. View screenshots for dashboard previews
 4. Download PBIX or TWBX files to explore interactively
 
-## Author
-Aditya Patil  
-GitHub | LinkedIn
