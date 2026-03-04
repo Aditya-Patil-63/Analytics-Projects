@@ -1,4 +1,4 @@
-# Analytics Projects Portfolio
+# Analytics Projects 
 
 ## Overview
 This repository contains data analytics projects developed using Power BI and Tableau.
